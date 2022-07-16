@@ -1,5 +1,5 @@
 # CS160_Human-Computer_Interaction
-shanghaitech CS160 Human-Computer Interaction project &
+shanghaitech CS160 Human-Computer Interaction project &   
 shanghaitech ARTS1409 Introductory Interaction Design mini projects
 
 ## Introduction
@@ -11,15 +11,15 @@ This solution is defined as a specially designed, pad-like device, having both a
 
 It Integrates the basic functions (of the smartphone and appliance controllers) that are highly needed by the elderly in China:
 
-a. Home appliance controlling and related information notices.
+- a. Home appliance controlling and related information notices.
 
-b. An interface - simplified version of WeChat (a social application )   and other interface - simplified, social functions, like phone calling and text messages.
+- b. An interface - simplified version of WeChat (a social application )   and other interface - simplified, social functions, like phone calling and text messages.
 
-c. Reminders about the daily routines. ( e.g. taking medicines)
+- c. Reminders about the daily routines. ( e.g. taking medicines)
 
-e. Payment QR code showing and code scanning
+- e. Payment QR code showing and code scanning
 
-f. A 'step instructor that can help the elderly operate certain appliance step by step
+- f. A 'step instructor that can help the elderly operate certain appliance step by step
 
 ## Concepts
 
