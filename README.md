@@ -70,7 +70,7 @@ This project follows the general procedure of HCI research:
 
 ```
 |  folder name   | content  |
-|  :----  | :----  |
+|  ----  | ----  |
 | text_records  | questionnaires, survey outcomes, interview records, evaluations, idea records|
 | presentations  | presentation ppts per stage |
 | models  | CAD models, low-fi model, mid-fi model |
