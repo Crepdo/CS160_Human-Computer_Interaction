@@ -68,16 +68,15 @@ This project follows the general procedure of HCI research:
    - HCI_POV reflections
 ## Hierarchy
 
-```
-|  folder name   | content  |
-|  ----  | ----  |
-| text_records  | questionnaires, survey outcomes, interview records, evaluations, idea records|
-| presentations  | presentation ppts per stage |
-| models  | CAD models, low-fi model, mid-fi model |
-| Image_gallery  | full image gallery |
-| Assignments  | other assignments of CS160 |
-| ARTS1409  |  personal mini projects of ARTS1409 |
-```
+|  folder name  | content                                                                       |
+|  -----------  | ----------------------------------------------------------------------------- |
+| text_records  | questionnaires, survey outcomes, interview records, evaluations, idea records |
+| presentations | presentation ppts per stage                                                   |
+| models        | CAD models, low-fi model, mid-fi model                                        |
+| Image_gallery | full image gallery                                                            |
+| Assignments   | other assignments of CS160                                                    |
+| ARTS1409      | personal mini projects of ARTS1409                                            |
+
 The folder ```\ARTS1409_Introductory_Interaction_Design``` includes my personal mini projects done in that course during my freshman year. Check the other ```README.md``` there for more information.
 ```
 📦CS160_Human-Computer_Interaction
