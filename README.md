@@ -13,7 +13,7 @@ It Integrates the basic functions (of the smartphone and appliance controllers) 
 
 - a. Home appliance controlling and related information notices.
 
-- b. An interface - simplified version of WeChat (a social application )   and other interface - simplified, social functions, like phone calling and text messages.
+- b. An interface - simplified version of WeChat (a social media application) and other interface - simplified social functions, like phone calling and text messages.
 
 - c. Reminders about the daily routines. ( e.g. taking medicines)
 
