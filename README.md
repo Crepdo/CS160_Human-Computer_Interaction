@@ -27,7 +27,7 @@ It Integrates the basic functions (of the smartphone and appliance controllers) 
 
 - Make the **interface** extremely simple, at most 2 layers
 
-- Make the** logic** extremely simple, less input demand, more yes-and-no style
+- Make the ** logic** extremely simple, less input demand, more yes-and-no style
 
 - Use **mixed multimodal input and output**: Voice, displayable Button with screens
 
