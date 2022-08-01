@@ -19,7 +19,7 @@ It Integrates the basic functions (of the smartphone and appliance controllers) 
 
 - e. Payment QR code showing and code scanning
 
-- f. A 'step instructor that can help the elderly operate certain appliance step by step
+- f. A step instructor that can help the elderly operate certain appliance step by step
 
 ## Concepts
 
