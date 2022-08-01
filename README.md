@@ -1,7 +1,7 @@
 # CS160_Human-Computer_Interaction
 shanghaitech ***CS160 Human-Computer Interaction*** project &   
 shanghaitech ***ARTS1409 Introductory Interaction Design*** mini projects
-
+## All-in-One solution of the digital world for the elderly
 ## Introduction
 This repository includes project files for CS160 in shanghaitech and my other HCI-related projects.   
 
